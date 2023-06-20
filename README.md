@@ -1,1 +1,1 @@
-# Langchain-tutorial
+# Langchain-tutorial using Open AI
